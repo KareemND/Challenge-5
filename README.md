@@ -9,11 +9,11 @@ N/A
 
 ## Usage
 
-After clicking the generate password button, the window would prompt a series of steps to the user that include password length and types of characters (uppercase,lowercase, numbers , and special characters). Based on the user's input a random password would be then generated as a window alert.
+Add errands to a every time block to organize your day
 
 ## Screenshot:
-<img width="860" alt="Password Generator" src="https://user-images.githubusercontent.com/119475435/212228037-6fd1007c-5a3a-4adc-90ae-f314282430dc.png">
+<img width="933" alt="Screenshot 2023-05-29 114118" src="https://github.com/KareemND/Challenge-5/assets/119475435/0fff50d8-5b39-4f4f-9778-f96df29e947d">
 
 ## License
 
-MIT License
+N/A
